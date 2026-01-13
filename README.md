@@ -2,8 +2,8 @@
 
 <p align="justify">
     🌟 My name is Laura.<br>
-    🚀 I'm currently working on traceability projects.<br>
-    🖥️ I'm passionate about mobile app development and UI design, but I'm always open to exploring new technologies.<br>
+    🚀 I'm currently working on AI Agents projects.<br>
+    🖥️ I'm passionate about UI and product design, but I'm always open to exploring new paths<br>
     📚 Always learning new things.<br>
     🌍 Currently based in Salamanca, Spain.<br>
     📝 Sometimes I comment my code like it's a letter to the future... and the future still doesn't understand a thing.
